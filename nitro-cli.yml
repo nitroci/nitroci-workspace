@@ -1,0 +1,14 @@
+version: 1
+commands:
+  - name: clone
+    description: Clone repositories
+    steps:
+      - script: if [ ! -d "./repos" ]; then mkdir ./repos; fi;
+      - cwd: ./repos
+        scripts:
+          - 'if [ ! -d "./nitroci.github.io" ]; then git clone git@github.com:nitroci/nitroci.github.io.git; fi;'
+          - 'if [ ! -d "./nitroci-cli" ]; then git clone git@github.com:nitroci/nitroci-cli.git; fi;'
+          - 'if [ ! -d "./nitroci-bits" ]; then git clone git@github.com:nitroci/nitroci-bits.git; fi;'
+          - 'if [ ! -d "./nitroci-pipelines" ]; then git clone git@github.com:nitroci/nitroci-pipelines.git; fi;'
+
+ 
