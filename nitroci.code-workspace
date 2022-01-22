@@ -19,10 +19,10 @@
 			"path": "./repos/nitroci-plugins"
 		},
 		{
-			"path": "./repos/nitroci-plugins-bitbucket"
+			"path": "./repos/nitroci-plugin-bitbucket"
 		},
 		{
-			"path": "./repos/nitroci-plugins-jfrog"
+			"path": "./repos/nitroci-plugin-jfrog"
 		},
 		{
 			"path": "./repos/nitroci-pipelines"
