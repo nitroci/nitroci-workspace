@@ -13,6 +13,15 @@
 			"path": "./repos/nitroci-bits"
 		},
 		{
+			"path": "./repos/nitroci-plugins"
+		},
+		{
+			"path": "./repos/nitroci-plugins-bitbucket"
+		},
+		{
+			"path": "./repos/nitroci-plugins-jfrog"
+		},
+		{
 			"path": "./repos/nitroci-pipelines"
 		},
 	],

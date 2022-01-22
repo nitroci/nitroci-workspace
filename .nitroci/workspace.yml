@@ -12,6 +12,9 @@ commands:
           - 'if [ ! -d "./nitroci.github.io" ]; then git clone git@github.com:nitroci/nitroci.github.io.git; fi;'
           - 'if [ ! -d "./nitroci-cli" ]; then git clone git@github.com:nitroci/nitroci-cli.git; fi;'
           - 'if [ ! -d "./nitroci-bits" ]; then git clone git@github.com:nitroci/nitroci-bits.git; fi;'
+          - 'if [ ! -d "./nitroci-plugins" ]; then git clone git@github.com:nitroci/nitroci-plugins.git; fi;'
+          - 'if [ ! -d "./nitroci-plugins-bitbucket" ]; then git clone git@github.com:nitroci/nitroci-plugins-bitbucket.git; fi;'
+          - 'if [ ! -d "./nitroci-plugins-jfrog" ]; then git clone git@github.com:nitroci/nitroci-plugins-jfrog.git; fi;'
           - 'if [ ! -d "./nitroci-pipelines" ]; then git clone git@github.com:nitroci/nitroci-pipelines.git; fi;'
 
  
