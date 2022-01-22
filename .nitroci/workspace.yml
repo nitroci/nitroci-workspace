@@ -1,4 +1,7 @@
 version: 1
+workspace:
+  id: ad884310994a459ba029497a071360e7
+  name: nitroci-workspace
 commands:
   - name: clone
     description: Clone repositories
