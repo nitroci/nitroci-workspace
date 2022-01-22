@@ -7,6 +7,9 @@
 			"path": "./repos/nitroci.github.io"
 		},
 		{
+			"path": "./repos/nitroci-core"
+		},
+		{
 			"path": "./repos/nitroci-cli"
 		},
 		{
