@@ -19,6 +19,9 @@
 			"path": "./repos/nitroci-plugins"
 		},
 		{
+			"path": "./repos/nitroci-plugin-core"
+		},
+		{
 			"path": "./repos/nitroci-plugin-bitbucket"
 		},
 		{
