@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./repos/nitroci-core"
+		},
+		{
+			"path": "./repos/nitroci-plugin-core"
+		},
+		{
+			"path": "./repos/nitroci-plugin-bitbucket"
+		},
+	],
+	"settings": {
+		"files.exclude": {
+			"repos": true,
+			"**/__pycache__/**": true,
+			"**/dist/**": true,
+			"**/build/**": true
+		},
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"terraform.languageServer": {
+			"enabled": true,
+			"args": []
+		}
+	}
+}
