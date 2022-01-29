@@ -10,6 +10,9 @@
 			"path": "./repos/nitroci-core"
 		},
 		{
+			"path": "./repos/nitroci-cobra-core"
+		},
+		{
 			"path": "./repos/nitroci-cli"
 		},
 		{

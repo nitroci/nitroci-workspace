@@ -19,7 +19,10 @@
 			"path": "./repos/nitroci-plugins"
 		},
 		{
-			"path": "./repos/nitroci-plugin-core"
+			"path": "./repos/nitroci-cobra-core"
+		},
+		{
+			"path": "./repos/nitroci-cobra-plugin-core"
 		},
 		{
 			"path": "./repos/nitroci-plugin-bitbucket"
